@@ -1,0 +1,228 @@
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+D:\недопрограммирование\тестсолар\тестсолар\bin\Debug\net6.0\тестсолар.exe
+D:\недопрограммирование\тестсолар\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+D:\недопрограммирование\тестсолар\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+D:\недопрограммирование\тестсолар\тестсолар\bin\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\тестсолар\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+D:\недопрограммирование\тестсолар\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+C:\Projects\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+C:\Projects\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+C:\Projects\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+C:\Projects\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+C:\Projects\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+C:\Projects\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+D:\недопрограммирование\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+D:\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+D:\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+D:\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+D:\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+D:\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+D:\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+C:\Users\Occulta\Documents\Новая папка\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CopyComplete
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+C:\Users\Occulta\Documents\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CopyComplete
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+F:\Новая папка (2)\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.exe
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.deps.json
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.runtimeconfig.json
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.AssemblyReference.cache
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.GeneratedMSBuildEditorConfig.editorconfig
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfoInputs.cache
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.AssemblyInfo.cs
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CoreCompileInputs.cache
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.csproj.CopyComplete
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\refint\тестсолар.dll
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.pdb
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\тестсолар.genruntimeconfig.cache
+D:\недопрограммирование\Уровень2\testsolar\тестсолар\obj\Debug\net6.0\ref\тестсолар.dll
