@@ -113,6 +113,7 @@ public class Core
         catch
         {
             Console.WriteLine("Вы ввели некорректную дату");
+            return;
         }
         using var db = new ApplicationContext();
         
@@ -131,7 +132,6 @@ public class Core
         try 
         {
              n = int.Parse(Console.ReadLine()); 
-
         } 
         catch(Exception e)
         {
@@ -140,13 +140,14 @@ public class Core
         }  
 
         var person = db.Persons.Find(n);
-        if (person != null)
+        if (person == null)
         {
-            db.Persons.Remove(person);
-            db.SaveChanges();
+            Console.WriteLine("Такого номера не существует");
             return;
         }
-            Console.WriteLine("Такого номера не существует");
+        db.Persons.Remove(person);
+        db.SaveChanges();
+
     }
 
     void EditValue()//5 редактировать запись
@@ -184,6 +185,7 @@ public class Core
         catch
         {
             Console.WriteLine("Вы ввели некорректный номер");
+            return;
         }
         
         switch (userChoice)
@@ -201,6 +203,7 @@ public class Core
                 catch
                 {
                     Console.WriteLine("Вы ввели некорректное значение");
+                    return;
                 }     
                 break;
             case 3:
@@ -214,6 +217,7 @@ public class Core
                 catch
                 {
                     Console.WriteLine("Вы ввели некорректное значение");
+                    return;
                 }
                 break;
         }
