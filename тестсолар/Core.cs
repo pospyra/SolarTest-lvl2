@@ -29,7 +29,7 @@ public class Core
             catch
             {
                 Console.WriteLine("Некорректное значение");
-                Menu();
+               continue;
             }
 
             switch (userChoice)
@@ -105,16 +105,18 @@ public class Core
         var name = Console.ReadLine();
         Console.WriteLine("Введите дату:");
 
-        var isDateValid = DateTime.TryParse(Console.ReadLine(), out var date);
-        if (!isDateValid)
+        DateTime isDateValid = new DateTime();
+        try
+        {
+            isDateValid = DateTime.Parse(Console.ReadLine());
+        }
+        catch
         {
             Console.WriteLine("Вы ввели некорректную дату");
-            return;
         }
-        
         using var db = new ApplicationContext();
         
-        var newPerson = new Person { name = name, date = date };
+        var newPerson = new Person { name = name, date = isDateValid };
         db.Persons.Add(newPerson);
         db.SaveChanges();
         Console.WriteLine("Данные успешно сохранены");
@@ -129,6 +131,7 @@ public class Core
         try 
         {
              n = int.Parse(Console.ReadLine()); 
+
         } 
         catch(Exception e)
         {
@@ -141,11 +144,9 @@ public class Core
         {
             db.Persons.Remove(person);
             db.SaveChanges();
+            return;
         }
-        else
-        {
             Console.WriteLine("Такого номера не существует");
-        }
     }
 
     void EditValue()//5 редактировать запись
