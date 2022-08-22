@@ -147,7 +147,7 @@ public class Core
         }
         db.Persons.Remove(person);
         db.SaveChanges();
-
+        Console.WriteLine("Данные удалены");
     }
 
     void EditValue()//5 редактировать запись
@@ -222,6 +222,7 @@ public class Core
                 break;
         }
         db.SaveChanges();
+        Console.WriteLine("Данные успешно изменены");
     }
     
 
